@@ -1,0 +1,25 @@
+{
+  "name": "hof-basics",
+  "version": "1.1.1",
+  "description": "Creating a npm package for different functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hof",
+    "add",
+    "subtract",
+    "multiply",
+    "divide",
+    "max",
+    "min",
+    "even",
+    "odd",
+    "negative",
+    "ascending",
+    "descending"
+  ],
+  "author": "Umair",
+  "license": "ISC"
+}
